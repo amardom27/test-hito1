@@ -1,2 +1,2 @@
 # test-hito1
-Más cambios
+Este es el repositorio del hito 1
